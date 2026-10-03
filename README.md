@@ -98,10 +98,4 @@ Flavor Finder is a feature-rich web application that allows users to **explore n
 
 We welcome contributions! Feel free to fork this repository, submit pull requests, and help improve the platform.  
 
----
-
-## 📩 Contact
-
-📧 **Developer:** Abdul Rafay  
-🔗 **GitHub:** [https://github.com/abdul-rafay19]  
-🔗 **LinkedIn:** [www.linkedin.com/in/abdul-rafay19]  
+ 
